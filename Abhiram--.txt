@@ -1,0 +1,21 @@
+Thanks For giving a chance to introduce myself,I am Venkata Abhiram, I am an  BI Consultant. Playing a major role in data 
+Visulation, Performing EDA analysis and drawing few insince from the data by applying few BI/ML technics to maintain client retention 
+by providing best BI solution to them.
+
+<EDU >
+
+Education Unv of the Cumberlands.
+Unv of Cinninnati 
+
+Few of my roles and Responsibilities: 
+
+
+• gathering the requirements and translating end user’s requirements into effective and efficient reports.
+•  requirement analysis, designing, developing, implementing and executing a project.
+•  Report performance test and KPI testing 
+• Expertise in BI reporting tools & Power BI reports and Power BI cloud services. Trouble Shooting, Performance tuning of reports and resolving issues within Power BI Desktop and services
+• Designing, building and deploying, publishing data analysis reports/dashboards for large volumes of data.
+• publishing the reports into servers, managing the gateways, reports, groups and users.
+• Having knowledge on Power BI scenarios like Calculations, DAX, Filters, Actions, Parameters, Groups, Sets, Graph’s, Maps, Users, and Scheduling.
+•communicate with the business and technical issues to both business users and technical users and resolving the issue on time.(Support tool used --> ServiceNow
+•providing training to the end users and business users on creating alerts,using KPI, datasets etc.
